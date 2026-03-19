@@ -74,7 +74,7 @@ Return ONLY this JSON structure, no other text:
         messages: [
           {
             role: 'system',
-            content: 'You are an expert user researcher for B2B SaaS teams. You always respond with valid JSON only. No markdown, no explanation, no code fences. Just the raw JSON object.'
+            content: 'You are an expert user researcher. You always respond with valid JSON only. No markdown, no explanation, no code fences. Just the raw JSON object.'
           },
           {
             role: 'user',
